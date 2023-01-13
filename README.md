@@ -8,6 +8,8 @@
 
 ## Hi there 👋
 
+I'm a 4th-year computer science student with the passion to solve problems and build new things. I have a wide array of experiences which I gained through different avenues. I am looking for internship opportunities to learn new skills and gain new experiences.
+
 
 <!--
 **OwaisUghratdar/OwaisUghratdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
