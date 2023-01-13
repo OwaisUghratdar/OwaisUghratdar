@@ -1,4 +1,6 @@
 
+![Bergeron Banner](https://user-images.githubusercontent.com/65151273/212417812-a988665d-ab37-46a3-bfef-85eb7ea379ab.jpg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/owaisughratdar">LinkedIn</a> |
   <a href="mailto:owais.ughratdar@gmail.com">Gmail</a>
