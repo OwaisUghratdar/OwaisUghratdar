@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/owaisughratdar">LinkedIn</a> |
+  <a href="mailto:owais.ughratdar@gmail.com">Gmail</a>
+</p>
+
+## Hi there 👋
+
 
 <!--
 **OwaisUghratdar/OwaisUghratdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
