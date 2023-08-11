@@ -18,10 +18,10 @@ I'm a 4th-year computer science student with the passion to solve problems and b
 <table>
   <tr>
     <td>
-      <p align="center">
-        <a href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site">Source Code</a> |
-        <a href="https://vehicles-showcase-site-git-main-owaisughratdar.vercel.app/">Demo</a>
-      </p>
+
+        <a align="center" href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site">Source Code</a> |
+        <a align="center" href="https://vehicles-showcase-site-git-main-owaisughratdar.vercel.app/">Demo</a>
+
       <p align="center">A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data         is obtained through an API.</p>
     </td>
     
