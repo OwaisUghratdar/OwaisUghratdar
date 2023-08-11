@@ -17,21 +17,19 @@ I'm a 4th-year computer science student with the passion to solve problems and b
 
 <table>
   <tr>
-    <td>
-        A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data         is obtained         through an API.
+    
+        A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data is obtained    through an API.
         <a align="center" href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site">Source Code</a> |
         <a align="center" href="https://vehicles-showcase-site-git-main-owaisughratdar.vercel.app/">Demo</a>
-
-      
-    </td>
+  </tr>
     
-    <td>
-      <p align="center">
+    <tr>
+        A Whatsapp clone webapp made with React. Google Authentication was used for login. Features include the ablity to create chatrooms, chat with               people in real-time, messages are saved on a database with a timestamp and more.
+     
         <a href="">Source Code</a> |
         <a href="https://whatsapp-clone-reactjs-318c3.web.app/">Demo</a>
-      </p>
-      <p align="center">A Whatsapp clone webapp made with React. Google Authentication was used for login. Features include the ablity to create chatrooms, chat         with people in real-time, messages are saved on a database with a timestamp and more.</p>
-    </td>
+
+
   </tr>
   
   <tr>
