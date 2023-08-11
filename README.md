@@ -19,28 +19,28 @@ I'm a 4th-year computer science student with the passion to solve problems and b
   <tr>
     <td>
       
-      <div display: flex>
-      <a align="left" href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site"><p>Source Code</p></a><a align="right" href="https://vehicles-showcase-site-git-main-owaisughratdar.vercel.app/"><p>Demo </p></a></div>
+
+      <a align="left" href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site"><p>Source Code</p></a><a align="right" href="https://vehicles-showcase-site-git-main-owaisughratdar.vercel.app/"><p>Demo </p></a>
       <p align="center">A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data is obtained through an API.</p>
     </td>
     <td>
 
-      <div display: flex>
-      <a align="left" href=""><p>Source Code</p></a><a align="right" href="https://whatsapp-clone-reactjs-318c3.web.app/"><p>Demo </p></a></div>
+
+      <a align="left" href=""><p>Source Code</p></a><a align="right" href="https://whatsapp-clone-reactjs-318c3.web.app/"><p>Demo </p></a>
       <p align="center">A Whatsapp clone webapp made with React. Google Authentication was used for login. Features include the ablity to create chatrooms, chat with people in real-time, messages are saved on a database with a timestamp and more.</p>
     </td>
   </tr>
   <tr>
     <td>
 
-      <div display: flex>
+
       <a align="left" href="https://github.com/OwaisUghratdar/User-Management-System"><p>Source Code</p></a><a align="right" href=""><p>Demo </p></a></div>
       <p align="center">A User Management System to store and track client data. This app was made with ExpressJS, NodeJS, and MongoDB.</p>
     </td>
     <td>
 
-      <div display: flex>
-      <a align="left" href="https://github.com/OwaisUghratdar/Todo_List_Application"><p>Project Github</p></a><a align="right" href="https://todo-app-cp-da580.web.app/"><p>Demo </p></a></div>
+
+      <a align="left" href="https://github.com/OwaisUghratdar/Todo_List_Application"><p>Project Github</p></a><a align="right" href="https://todo-app-cp-da580.web.app/"><p>Demo </p></a>
       <p>A sleek To-Do web-app, made using React. Implemented this app using components, hooks, states, props, and more. Full CRUD functionality, used
         Firebase for data handling.</p>
       
