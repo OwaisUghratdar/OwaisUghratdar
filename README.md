@@ -20,29 +20,29 @@ I'm a 4th-year computer science student with the passion to solve problems and b
   
   <tr>
     
-    <th>
+    <td>
       
-        <p>A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data is obtained through an API.</p>
-        <a align="center" href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site">Source Code </a>
-    </th>
-    <th>
+        A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data is obtained through an API.
+        <!-- <a align="center" href="https://github.com/OwaisUghratdar/Vehicles-Showcase-Site">Source Code </a>  -->
+    </td>
+    <td>
       
-      <p>A Whatsapp clone webapp made with React. Google Authentication was used for login. Features include the ablity to create chatrooms, chat with people in real-time, messages are saved on a database with a timestamp and more.</p>
-      <a align="center" href="">Source Code </a>
-    </th>
+      A Whatsapp clone webapp made with React. Google Authentication was used for login. Features include the ablity to create chatrooms, chat with people in real-time, messages are saved on a database with a timestamp and more.
+      <!-- <a align="center" href="">Source Code </a>-->
+    </td>
   </tr>
   
   <tr>
     <td>
       
-        <p>A User Management System to store and track client data. This app was made with ExpressJS, NodeJS, and MongoDB.</p>
-        <a align="center" href="https://github.com/OwaisUghratdar/User-Management-System">Source Code </a>
+        A User Management System to store and track client data. This app was made with ExpressJS, NodeJS, and MongoDB.
+        <!-- <a align="center" href="https://github.com/OwaisUghratdar/User-Management-System">Source Code </a>-->
     </td>
     <td>
       
-        <p>A sleek To-Do web-app, made using React. Implemented this app using components, hooks, states, props, and more. Full CRUD functionality, used
-        Firebase for data handling.</p>
-        <a align="center" href="https://github.com/OwaisUghratdar/Todo_List_Application">Source Code </a>
+        A sleek To-Do web-app, made using React. Implemented this app using components, hooks, states, props, and more. Full CRUD functionality, used
+        Firebase for data handling.
+        <!-- <a align="center" href="https://github.com/OwaisUghratdar/Todo_List_Application">Source Code </a>-->
     </td>
   </tr>
   
@@ -59,14 +59,14 @@ I'm a 4th-year computer science student with the passion to solve problems and b
   
   <tr>
     <td>
-        <p>A card memory game</p>
-        <a align="center" href="https://github.com/OwaisUghratdar/CardMemoryGame">Source Code </a>
+        A card memory game
+        <!-- <a align="center" href="https://github.com/OwaisUghratdar/CardMemoryGame">Source Code </a>-->
     </td>
     
     <td>
       
-      <p>A maze game - players have to find their way out of this maze. The maze is randomly generated in a different pattern each time.</p>
-      <a align="center" href="https://github.com/OwaisUghratdar/MazeGame">Source Code </a>
+      A maze game - players have to find their way out of this maze. The maze is randomly generated in a different pattern each time.
+      <!-- <a align="center" href="https://github.com/OwaisUghratdar/MazeGame">Source Code </a>-->
     </td>
     
   </tr>
@@ -74,13 +74,13 @@ I'm a 4th-year computer science student with the passion to solve problems and b
   <tr>
     
     <td>
-        <p>A 2D monster chasing game, players have to get as many points as they can before time runs out.</p>
-        <a align="center" href="https://github.com/OwaisUghratdar/Alien_Eat_Game">Source Code </a>
+        A 2D monster chasing game, players have to get as many points as they can before time runs out.
+        <!-- <a align="center" href="https://github.com/OwaisUghratdar/Alien_Eat_Game">Source Code </a>-->
     </td>
     
     <td>
-        <p>Pong - I'm sure you know how it works.</p>
-        <a align="center" href="https://github.com/OwaisUghratdar/PongPythonGame">Source Code </a>
+        Pong - I'm sure you know how it works.
+        <!-- <a align="center" href="https://github.com/OwaisUghratdar/PongPythonGame">Source Code </a>-->
     </td>
     
   </tr>
