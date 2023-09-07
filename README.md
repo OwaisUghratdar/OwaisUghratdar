@@ -15,8 +15,11 @@ I'm a 4th-year computer science student with the passion to solve problems and b
 
 ### Web-Apps
 
+
 <table>
+  
   <tr>
+    
     <td>
       
         <p>A React Webapp project that showcases vehicles for rent. There is a fully functional search bar and sort function. All the vehicle data is obtained    through an API.</p>
