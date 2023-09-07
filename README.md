@@ -28,6 +28,7 @@ I'm a 4th-year computer science student with the passion to solve problems and b
       <a align="center" href="">Source Code </a>
     </td>
   </tr>
+  
   <tr>
     <td>
       
@@ -41,6 +42,7 @@ I'm a 4th-year computer science student with the passion to solve problems and b
         <a align="center" href="https://github.com/OwaisUghratdar/Todo_List_Application">Source Code </a>
     </td>
   </tr>
+  
 </table>
 
 
@@ -51,30 +53,35 @@ I'm a 4th-year computer science student with the passion to solve problems and b
 ### Python Games
 <p>As a hobby I like to create Python games using the PyGame framework. I also use these games to teach children how to code. Here are some of them:</p>
 <table>
+  
   <tr>
     <td>
-      
         <p>A card memory game</p>
         <a align="center" href="https://github.com/OwaisUghratdar/CardMemoryGame">Source Code </a>
     </td>
+    
     <td>
       
       <p>A maze game - players have to find their way out of this maze. The maze is randomly generated in a different pattern each time.</p>
       <a align="center" href="https://github.com/OwaisUghratdar/MazeGame">Source Code </a>
     </td>
+    
   </tr>
+  
   <tr>
+    
     <td>
-      
         <p>A 2D monster chasing game, players have to get as many points as they can before time runs out.</p>
         <a align="center" href="https://github.com/OwaisUghratdar/Alien_Eat_Game">Source Code </a>
     </td>
+    
     <td>
-     
         <p>Pong - I'm sure you know how it works.</p>
         <a align="center" href="https://github.com/OwaisUghratdar/PongPythonGame">Source Code </a>
     </td>
+    
   </tr>
+  
 </table>
 
 
