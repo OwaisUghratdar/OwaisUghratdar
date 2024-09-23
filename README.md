@@ -8,7 +8,7 @@
 
 # Hi there 👋
 
-I'm a 4th-year computer science student with the passion to solve problems and build new things. I have a wide array of experiences which I gained through different avenues. I am looking for internship opportunities and junior positions to learn new skills and gain new experiences.
+I'm a frontend developer with the passion to solve problems and build new things. I have a wide array of experiences which I gained through different avenues.
 
 
 ## Projects
