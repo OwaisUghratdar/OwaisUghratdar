@@ -2,14 +2,20 @@
 <h1 align="center">👋 Hi, I'm Owais Ughratdar</h1>
 
 <p align="center">
+  Based in Toronto, ON 🍁
+</p>
+
+<p align="center">
   Software Developer specializing in frontend development with 3+ years of experience building scalable web applications
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/owaisughratdar" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
   <a href="mailto:owais.ughratdar@gmail.com">Email</a> •
-  <a href="[your-portfolio-url]" target="_blank" rel="noopener noreferrer">Portfolio</a>
+  <a href="https://owaisughratdar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
+
+---
 
 ### About Me
 * 👨‍💻 Frontend developer with expertise in e-commerce and startup environments
@@ -36,8 +42,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-<p align="center">
-  Based in Toronto, ON 🍁
-</p>
